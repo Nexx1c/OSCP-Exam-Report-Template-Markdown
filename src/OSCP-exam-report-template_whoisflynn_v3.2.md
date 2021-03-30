@@ -1,7 +1,7 @@
 ---
-title: "Offensive Security Certified Professional Exam Report"
-author: ["student@youremailaddress.com", "OSID: XXXX"]
-date: "2020-07-25"
+title: "Offensive Security Certified Professional Exam Report - MN"
+author: ["MN-Test@maildomain.com", "OSID: XXXX"]
+date: "2021-03-20"
 subject: "Markdown"
 keywords: [Markdown, Example]
 subtitle: "OSCP Exam Report"
